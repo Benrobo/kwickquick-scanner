@@ -2,7 +2,7 @@
   "name": "KwickQuick",
   "short_name": "KwickQuick",
   "start_url": "/kwickquick-scanner",
-  "Scope": "/",
+  "Scope": "/kwickquick-scanner",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
