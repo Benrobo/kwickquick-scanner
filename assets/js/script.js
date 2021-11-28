@@ -715,8 +715,8 @@ function seeDetails() {
 
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', function () {
-        navigator.serviceWorker.register('/kwickquick-scanner/sw.js', {
-            scope: '/'
+        navigator.serviceWorker.register('./sw.js', {
+            scope: '/kwickquick-scanner/'
         }).then((reg) => {
             // registration success
             console.log('Registration success');
