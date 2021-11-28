@@ -1,7 +1,7 @@
 {
   "name": "KwickQuick",
   "short_name": "KwickQuick",
-  "start_url": "/",
+  "start_url": "/kwickquick-scanner",
   "Scope": "/",
   "display": "standalone",
   "orientation": "portrait",
